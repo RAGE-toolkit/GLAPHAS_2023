@@ -10,7 +10,7 @@ Collaborative meeting for rabies researchers
 | 13:15-13:30   | Progress and prospects for RABV genomic research  | Kirstyn Brunker, University of Glasgow   | 
 | 13:30-13:45   | Data-driven approaches for rabies elimination  | Katie Hampson, University of Glasgow  |
 | 13:45-14:00   | TBD  | APHA | 
-| -------------- | -------- | ---------------------------------- |
+| ------------- | ------------- | ------------- |
 | 14:00-14:15   | Short break |
 | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | TBD  | APHA |
