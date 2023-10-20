@@ -6,7 +6,8 @@ University of Glasgow | Animal & Plant Health Agency | University of Surrey
 
 ## Programme overview:
 
-### Tuesday, 24th October (afternoon)
+### Tuesday, 24th October (afternoon)  
+Location: [Wolfson Medical School - Room 248 (Seminar Room 3 - Gannochy)](https://frontdoor.spa.gla.ac.uk/map/#/embedded?to=1700248)
 
 | Time       | Event                                                  | Speaker                                 |
 |------------|--------------------------------------------------------|----------------------------------------|
@@ -26,6 +27,7 @@ University of Glasgow | Animal & Plant Health Agency | University of Surrey
 
 
 ### Wednesday, 25th October (morning)
+Location: [Main Building - Room 256 (Fore Hall)](https://frontdoor.spa.gla.ac.uk/map/#/embedded?to=1040256)
 
 | Time        | Event                                                              | Speaker(s)                                 |
 |-------------|--------------------------------------------------------------------|--------------------------------------------|
