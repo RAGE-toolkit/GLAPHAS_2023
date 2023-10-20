@@ -32,7 +32,7 @@ University of Glasgow | Animal & Plant Health Agency | University of Surrey
 | 09:00-09:15 | Social science tools and methods for problem solving in implementation research | Nai Rui Chng (University of Glasgow)     |
 | 09:15-09:30 | Quantifying the interconnectedness between poverty, health access, and rabies mortality | Dan Horton/Emma Taylor (University of Surrey) |
 | 09:30-09:45 | Overview of rabies and NTD research at Surrey: update and opportunities for collaboration | Dan Horton/Denise Marston (University of Surrey) |
-| 09:45-10:00 | TBC                                                                | Elaine Ferguson (University of Glasgow)    |
+| 09:45-10:00 | TBC                                                                | TBC    |
 | 10:15-10:30 | MADDOG: Updated Classifications for Genomic Surveillance of Rabies   | Kat Campbell (University of Glasgow)      |
 | 10:30-10:45 | FLASH TALKS (x3)                                                   |                                            |
 | 10:45-11:00 | *Short break*                                                        |                                            |
