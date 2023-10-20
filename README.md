@@ -22,7 +22,7 @@ University of Glasgow | Animal & Plant Health Agency | University of Surrey
 | 15:15-15:30| Short break     |                |
 | 15:30-16:15| Break out discussions     |  |
 | 16:15-17:00      | Round-table discussions     |  |
-|  | Close         |    |
+| Close |          |    |
 
 
 ### Wednesday, 25th October (morning)
@@ -30,12 +30,12 @@ University of Glasgow | Animal & Plant Health Agency | University of Surrey
 | Time        | Event                                                              | Speaker(s)                                 |
 |-------------|--------------------------------------------------------------------|--------------------------------------------|
 | 09:00-09:15 | Social science tools and methods for problem solving in implementation research | Nai Rui Chng (University of Glasgow)     |
-| 09:15-09:30 | Quantifying the interconnectedness between poverty, health access, and rabies mortality | Dan Horton/Emma Taylor (University of Surrey) |
-| 09:30-09:45 | Overview of rabies and NTD research at Surrey: update and opportunities for collaboration | Dan Horton/Denise Marston (University of Surrey) |
+| 09:15-09:30 | Quantifying the interconnectedness between poverty, health access, and rabies mortality | Daniel Horton/Emma Taylor (University of Surrey) |
+| 09:30-09:45 | Overview of rabies and NTD research at Surrey: update and opportunities for collaboration | Daniel Horton/Denise Marston (University of Surrey) |
 | 09:45-10:00 | TBC                                                                | TBC    |
-| 10:15-10:30 | MADDOG: Updated Classifications for Genomic Surveillance of Rabies   | Kat Campbell (University of Glasgow)      |
+| 10:15-10:30 | MADDOG: Updated Classifications for Genomic Surveillance of Rabies   | Kathryn Campbell (University of Glasgow)      |
 | 10:30-10:45 | FLASH TALKS (x3)                                                   |                                            |
 | 10:45-11:00 | *Short break*                                                        |                                            |
 | 11:00-12:00 | Discussion                                                         |                                            |
-|  |Close
+|Close  |
 
