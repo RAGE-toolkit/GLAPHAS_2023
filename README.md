@@ -51,19 +51,19 @@ Location: [Main Building - Room 256 (Fore Hall)](https://frontdoor.spa.gla.ac.uk
 - Dr Denise Marston
 - Dr Emma Taylor (virtual)
 - Dr Lorraine McElhinney
-- Dr Guanghui Wu
 - Hooman Goharriz
+- Dr Guanghui Wu
 - Dr Beth Preston (virtual)
 - Dr Stuart Patterson (virtual)
 - Prof Katie Hampson
 - Dr Nai Rui Chng
 - Dr Grace Kia
 - Dr Elaine Ferguson
-- Dr Eleanor Rees
 - Kathryn Campbell
 - Criselda Bautista
 - Danni Anderson
 - Martha Luka (virtual)
+- Dr Eleanor Rees
 - Rowan Durrant
 - Anna Formstone
 - Camille Barker
@@ -73,6 +73,6 @@ Location: [Main Building - Room 256 (Fore Hall)](https://frontdoor.spa.gla.ac.uk
 - Hollie French
 - Haris Malik
 - Alice Broos
-- Jocelyn Perez Lazo
+- Dr Jocelyn Perez Lazo
 
 
