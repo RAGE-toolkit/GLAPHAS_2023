@@ -4,6 +4,7 @@ Collaborative meeting for rabies researchers
 ---
 
 ## Programme overview:
+
 | Time       | Event                                                  | Speaker                                 |
 |------------|--------------------------------------------------------|----------------------------------------|
 | 13:00-13:15     | Opening and Welcome                                     |                                        |
