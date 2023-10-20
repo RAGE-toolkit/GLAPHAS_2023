@@ -61,7 +61,7 @@ University of Glasgow | Animal & Plant Health Agency | University of Surrey
 - Kathryn Campbell
 - Criselda Bautista
 - Danni Anderson
-- Martha Luka
+- Martha Luka (virtual)
 - Rowan Durrant
 - Anna Formstone
 - Camille Barker
