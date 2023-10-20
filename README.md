@@ -1,4 +1,4 @@
-# GLAPHAS 2023
+# GLAPHAS_2023
 Collaborative meeting for rabies researchers.  
 University of Glasgow | Animal & Plant Health Agency | University of Surrey
 
