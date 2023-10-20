@@ -32,7 +32,7 @@ Collaborative meeting for rabies researchers
 | 09:15-09:30 | Quantifying the interconnectedness between poverty, health access, and rabies mortality | Dan Horton/Emma Taylor (University of Surrey) |
 | 09:30-09:45 | Overview of rabies and NTD research at Surrey: update and opportunities for collaboration | Dan Horton/Denise Marston (University of Surrey) |
 | 09:45-10:00 | TBC                                                                | Elaine Ferguson (University of Glasgow)    |
-| 10:15-10:30 | MADDOG                                                             | Kat Campbell (University of Glasgow)      |
+| 10:15-10:30 | MADDOG: Updated Classifications for Genomic Surveillance of Rabies   | Kat Campbell (University of Glasgow)      |
 | 10:30-10:45 | FLASH TALKS (x3)                                                   |                                            |
 | 10:45-11:00 | Short break                                                        |                                            |
 | 11:00-12:00 | Discussion                                                         |                                            |
