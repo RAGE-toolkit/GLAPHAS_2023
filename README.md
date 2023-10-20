@@ -42,7 +42,7 @@ University of Glasgow | Animal & Plant Health Agency | University of Surrey
 
 ---
 ## Organiser  
-- Dr Kirstyn Brunker
+- Dr Kirstyn Brunker (kirstyn.brunker@glasgow.ac.uk)
 ## Attendees:   
 - Prof Daniel Horton
 - Dr Denise Marston
