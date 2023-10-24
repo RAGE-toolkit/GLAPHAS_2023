@@ -4,7 +4,10 @@ University of Glasgow | Animal & Plant Health Agency | University of Surrey
 
 ---
 
-## Programme overview:
+## Programme overview:  
+[Zoom link] (https://uofglasgow.zoom.us/j/81411770673?pwd=WXZqZjRLZVNtQkZ4cUMrdU1aVFNrQT09)   
+Meeting ID: 814 1177 0673  
+Passcode: 161231   
 
 ### Tuesday, 24th October (afternoon)  
 Location: [Wolfson Medical School - Room 248 (Seminar Room 3 - Gannochy)](https://frontdoor.spa.gla.ac.uk/map/#/embedded?to=1700248)
