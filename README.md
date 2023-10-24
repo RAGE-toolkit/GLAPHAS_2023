@@ -31,7 +31,6 @@ Location: [Main Building - Room 256 (Fore Hall)](https://frontdoor.spa.gla.ac.uk
 
 | Time        | Event                                                              | Speaker(s)                                 |
 |-------------|--------------------------------------------------------------------|--------------------------------------------|
-| 09:00-09:15 | Social science tools and methods for problem solving in implementation research | Nai Rui Chng (University of Glasgow)     |
 | 09:15-09:30 | Quantifying the interconnectedness between poverty, health access, and rabies mortality | Daniel Horton/Emma Taylor (University of Surrey) |
 | 09:30-09:45 | Overview of rabies and NTD research at Surrey: update and opportunities for collaboration | Daniel Horton/Denise Marston (University of Surrey) |
 | 09:45-10:00 | How does human behaviour impact dog rabies outbreaks?              |     Elaine Ferguson    |
@@ -47,14 +46,19 @@ Location: [Main Building - Room 256 (Fore Hall)](https://frontdoor.spa.gla.ac.uk
 ## Organiser  
 - Dr Kirstyn Brunker (kirstyn.brunker@glasgow.ac.uk)
 ## Attendees:   
+*University of Surrey*
 - Prof Daniel Horton
 - Dr Denise Marston
 - Dr Emma Taylor (virtual)
+- Dr Joaquin Prada (virtual)
+*APHA*
 - Dr Lorraine McElhinney
 - Hooman Goharriz
 - Dr Guanghui Wu
+*RVC*
 - Dr Beth Preston (virtual)
 - Dr Stuart Patterson (virtual)
+*University of Glasgow*
 - Prof Katie Hampson
 - Dr Nai Rui Chng
 - Dr Grace Kia
@@ -74,5 +78,7 @@ Location: [Main Building - Room 256 (Fore Hall)](https://frontdoor.spa.gla.ac.uk
 - Haris Malik
 - Alice Broos
 - Dr Jocelyn Perez Lazo
+*University of Oxford*
+- Dr Sarah Hayes (virtual)
 
 
